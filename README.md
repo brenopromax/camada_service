@@ -1,6 +1,6 @@
 # IoT ESP32 - Robô Explorador Espacial
 
-## 📖 Descrição do Projeto
+## Descrição do Projeto
 
 Este projeto faz parte de uma atividade prática de Internet das Coisas (IoT) utilizando ESP32, simulação no Wokwi e integração com controle remoto.
 
